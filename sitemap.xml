@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://permatapunggur.env.pm/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://permatapunggur.env.pm/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://permatapunggur.env.pm/articles.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://permatapunggur.env.pm/contact.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://permatapunggur.env.pm/history.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://permatapunggur.env.pm/jemaat.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://permatapunggur.env.pm/members.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://permatapunggur.env.pm/monitor.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+</urlset>
